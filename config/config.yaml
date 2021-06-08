@@ -1,0 +1,26 @@
+intelligence:
+  threatbook:
+    key: xxxx-yyyy-zzzz
+  hibp:
+    key: xxxx-yyyy-zzzz
+  proxycheck:
+    key: xxxx-yyyy-zzzz
+  virustotal:
+    key:
+      - xxxx-yyyy-zzzz
+      - yyyy-zzzz-xxxx
+      - zzzz-xxxx-yyyy
+  alienvault:
+    key: xxxx-yyyy-zzzz
+enrichment:
+  shodan:
+    key: 
+      - xxxx-yyyy-zzzz
+      - yyyy-zzzz-xxxx
+      - zzzz-xxxx-yyyy
+  passivetotal:
+    key: xxxx-yyyy-zzzz
+    user: canon@loveyou.com
+    headers: 
+      User-Agent: HappyHunting
+      Cookie: canon@loveyou.com
